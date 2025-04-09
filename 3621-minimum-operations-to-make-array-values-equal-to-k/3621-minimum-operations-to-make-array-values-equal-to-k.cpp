@@ -1,15 +1,9 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums, int k) {
-        sort(nums.begin(),nums.end());
-        int minval=nums[0];
-        int n=1, lastele=nums[0];
-        for(int i=1;i<nums.size();i++){
-            if(nums[i]!=lastele){
-                lastele=nums[i];
-                n+=1;
-            }
-        }
+        int minval=*min_element(nums.begin(),nums.end());
+        unordered_set<int> distinctNumbers(nums.begin(), nums.end());
+        int n=distinctNumbers.size();
         cout<<minval<<endl;
         if(k==minval){return n-1;}
         if(k<minval){return n;}
