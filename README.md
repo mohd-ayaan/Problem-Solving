@@ -36,6 +36,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1500-count-largest-group](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1500-count-largest-group) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mohd-ayaan/Problem-Solving/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Dynamic Programming
@@ -62,4 +63,8 @@
 |  |
 | ------- |
 | [1041-available-captures-for-rook](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1041-available-captures-for-rook) |
+## Math
+|  |
+| ------- |
+| [1500-count-largest-group](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1500-count-largest-group) |
 <!---LeetCode Topics End-->
