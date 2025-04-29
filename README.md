@@ -7,6 +7,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0463-island-perimeter) |
+| [0474-ones-and-zeroes](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0474-ones-and-zeroes) |
 | [0733-flood-fill](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0733-flood-fill) |
 | [1041-available-captures-for-rook](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1041-available-captures-for-rook) |
 | [1299-k-concatenation-maximum-sum](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1299-k-concatenation-maximum-sum) |
@@ -48,6 +49,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0474-ones-and-zeroes) |
 | [1299-k-concatenation-maximum-sum](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1299-k-concatenation-maximum-sum) |
 ## Union Find
 |  |
@@ -92,4 +94,8 @@
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0813-all-paths-from-source-to-target) |
+## String
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
