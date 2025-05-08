@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0046-permutations) |
+| [0090-subsets-ii](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0463-island-perimeter) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0046-permutations) |
+| [0090-subsets-ii](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0090-subsets-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0813-all-paths-from-source-to-target) |
 ## String
 |  |
@@ -114,4 +116,8 @@
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1227-number-of-equivalent-domino-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
