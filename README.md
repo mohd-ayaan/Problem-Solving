@@ -7,6 +7,7 @@
 | [0046-permutations](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0474-ones-and-zeroes) |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Tree
 |  |
