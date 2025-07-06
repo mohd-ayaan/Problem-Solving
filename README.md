@@ -17,6 +17,7 @@
 | [1041-available-captures-for-rook](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1041-available-captures-for-rook) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1299-k-concatenation-maximum-sum](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1299-k-concatenation-maximum-sum) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2048-build-array-from-permutation](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -100,6 +101,7 @@
 | [0162-find-peak-element](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0907-koko-eating-bananas) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Binary Tree
 |  |
 | ------- |
