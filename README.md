@@ -13,6 +13,7 @@
 | [0474-ones-and-zeroes](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0474-ones-and-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0733-flood-fill) |
+| [0907-koko-eating-bananas](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0907-koko-eating-bananas) |
 | [1041-available-captures-for-rook](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1041-available-captures-for-rook) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1299-k-concatenation-maximum-sum](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1299-k-concatenation-maximum-sum) |
@@ -98,6 +99,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
+| [0907-koko-eating-bananas](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0907-koko-eating-bananas) |
 ## Binary Tree
 |  |
 | ------- |
