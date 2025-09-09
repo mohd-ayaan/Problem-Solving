@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -53,6 +54,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0041-first-missing-positive) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1500-count-largest-group) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1960-check-if-the-sentence-is-pangram) |
