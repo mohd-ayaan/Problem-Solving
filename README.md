@@ -11,6 +11,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0200-number-of-islands) |
+| [0396-rotate-function](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0396-rotate-function) |
 | [0463-island-perimeter](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0474-ones-and-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
@@ -64,6 +65,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0474-ones-and-zeroes) |
 | [1299-k-concatenation-maximum-sum](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1299-k-concatenation-maximum-sum) |
 ## Union Find
@@ -93,6 +95,7 @@
 ## Math
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0396-rotate-function) |
 | [1500-count-largest-group](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1500-count-largest-group) |
 | [2998-count-symmetric-integers](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2998-count-symmetric-integers) |
 ## Enumeration
