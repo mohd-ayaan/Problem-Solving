@@ -97,6 +97,7 @@
 |  |
 | ------- |
 | [0396-rotate-function](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0396-rotate-function) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1500-count-largest-group](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1500-count-largest-group) |
 | [2998-count-symmetric-integers](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2998-count-symmetric-integers) |
 ## Enumeration
