@@ -23,6 +23,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2048-build-array-from-permutation](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2048-build-array-from-permutation) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2626-count-the-number-of-good-subarrays) |
