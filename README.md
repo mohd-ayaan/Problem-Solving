@@ -23,6 +23,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2048-build-array-from-permutation](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2048-build-array-from-permutation) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -99,6 +100,7 @@
 | [0396-rotate-function](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0396-rotate-function) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1500-count-largest-group](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1500-count-largest-group) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2998-count-symmetric-integers](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2998-count-symmetric-integers) |
 ## Enumeration
 |  |
@@ -144,4 +146,8 @@
 | ------- |
 | [0090-subsets-ii](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0090-subsets-ii) |
 | [0800-letter-case-permutation](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0800-letter-case-permutation) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
