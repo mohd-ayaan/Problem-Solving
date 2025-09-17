@@ -134,12 +134,14 @@
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0344-reverse-string) |
 | [0474-ones-and-zeroes](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0474-ones-and-zeroes) |
 | [0800-letter-case-permutation](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0800-letter-case-permutation) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0344-reverse-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Counting
 |  |
