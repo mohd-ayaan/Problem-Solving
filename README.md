@@ -28,6 +28,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mohd-ayaan/Problem-Solving/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mohd-ayaan/Problem-Solving/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Depth-First Search
@@ -64,6 +65,7 @@
 | [1500-count-largest-group](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1500-count-largest-group) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mohd-ayaan/Problem-Solving/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mohd-ayaan/Problem-Solving/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Dynamic Programming
@@ -105,6 +107,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1500-count-largest-group](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1500-count-largest-group) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2998-count-symmetric-integers](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2998-count-symmetric-integers) |
 ## Enumeration
 |  |
@@ -156,4 +159,8 @@
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Greedy
+|  |
+| ------- |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 <!---LeetCode Topics End-->
