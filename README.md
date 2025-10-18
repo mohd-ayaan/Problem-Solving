@@ -12,6 +12,7 @@
 | [0162-find-peak-element](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0200-number-of-islands) |
 | [0396-rotate-function](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0396-rotate-function) |
+| [0455-assign-cookies](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0474-ones-and-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0455-assign-cookies) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Counting
 |  |
@@ -162,5 +164,10 @@
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0455-assign-cookies) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
