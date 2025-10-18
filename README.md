@@ -31,6 +31,7 @@
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/mohd-ayaan/Problem-Solving/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mohd-ayaan/Problem-Solving/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mohd-ayaan/Problem-Solving/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Depth-First Search
@@ -168,8 +169,10 @@
 | [0455-assign-cookies](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0890-lemonade-change) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/mohd-ayaan/Problem-Solving/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Sorting
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0455-assign-cookies) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/mohd-ayaan/Problem-Solving/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 <!---LeetCode Topics End-->
