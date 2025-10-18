@@ -17,6 +17,7 @@
 | [0474-ones-and-zeroes](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0474-ones-and-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0733-flood-fill) |
+| [0890-lemonade-change](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0907-koko-eating-bananas) |
 | [1041-available-captures-for-rook](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1041-available-captures-for-rook) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -165,6 +166,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0890-lemonade-change) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## Sorting
 |  |
