@@ -7,6 +7,7 @@
 | [0039-combination-sum](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0046-permutations) |
+| [0055-jump-game](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0055-jump-game) |
 | [0090-subsets-ii](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0162-find-peak-element) |
@@ -74,6 +75,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0055-jump-game) |
 | [0396-rotate-function](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0474-ones-and-zeroes) |
 | [1299-k-concatenation-maximum-sum](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1299-k-concatenation-maximum-sum) |
@@ -166,6 +168,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0890-lemonade-change) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
