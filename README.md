@@ -6,6 +6,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0055-jump-game) |
 | [0090-subsets-ii](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0090-subsets-ii) |
@@ -75,6 +76,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0055-jump-game) |
 | [0396-rotate-function](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0474-ones-and-zeroes) |
@@ -168,6 +170,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0890-lemonade-change) |
