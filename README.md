@@ -28,6 +28,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2048-build-array-from-permutation](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2048-build-array-from-permutation) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -106,6 +107,7 @@
 | ------- |
 | [1041-available-captures-for-rook](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1041-available-captures-for-rook) |
 | [2048-build-array-from-permutation](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2048-build-array-from-permutation) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -148,6 +150,7 @@
 | [0474-ones-and-zeroes](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0474-ones-and-zeroes) |
 | [0800-letter-case-permutation](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0800-letter-case-permutation) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
 | ------- |
