@@ -31,6 +31,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2169-simple-bank-system](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2169-simple-bank-system) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -64,6 +65,7 @@
 | [0463-island-perimeter](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0733-flood-fill) |
 | [1041-available-captures-for-rook](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1041-available-captures-for-rook) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +121,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1500-count-largest-group](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1500-count-largest-group) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2998-count-symmetric-integers](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2998-count-symmetric-integers) |
 ## Enumeration
@@ -154,6 +157,7 @@
 | [0800-letter-case-permutation](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0800-letter-case-permutation) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Two Pointers
 |  |
 | ------- |
