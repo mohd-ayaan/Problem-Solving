@@ -1,55 +1,38 @@
 class Solution {
     public int countValidSelections(int[] nums) {
-        int n=nums.length;
-        int[] arr;
-        int cnt=0;
-        for(int i=0;i<n;i++){
-            if(nums[i]!=0){continue;} 
-            
-            arr = Arrays.copyOf(nums, n);
-            boolean dir=false;   // false->left
-            int j=i;
-            while(j>=0 && j<n){
-                if(arr[j]>0){
-                    arr[j]-=1;
-                    dir=!dir;
-                }
-                j=(dir==false)?j-1:j+1;
-                
-            }
-            boolean zero=true;
-            for(int k=0;k<n;k++){
-                // System.out.print(arr[k]+" ");
-                if(arr[k]!=0){
-                    zero=false;
-                    break;
-                }
-            }
-            if(zero){cnt+=1;}
-            System.out.println("\ni: "+i+" left, cnt: "+cnt);
+        int n = nums.length;
+        int count = 0;
 
+        for (int i = 0; i < n; i++) {
+            if (nums[i] != 0) continue;
 
-
-            dir=true;    //true ->right
-            j=i;
-            arr = Arrays.copyOf(nums, n);   
-            while(j>=0 && j<n){
-                if(arr[j]>0){
-                    arr[j]-=1;
-                    dir=!dir;
-                }
-                j=dir==false?j-1:j+1;
-            }
-            zero=true;
-            for(int k=0;k<n;k++){
-                if(arr[k]!=0){
-                    zero=false;
-                    break;
-                }
-            }
-            if(zero){cnt+=1;}
-            System.out.println("i: "+i+", right, cnt: "+cnt);
+            // Try both directions
+            if (simulate(nums, i, false)) count++;
+            if (simulate(nums, i, true)) count++;
         }
-        return cnt;
+
+        return count;
+    }
+
+    private boolean simulate(int[] nums, int start, boolean directionRight) {
+        int[] arr = Arrays.copyOf(nums, nums.length);
+        int curr = start;
+        boolean dir = directionRight;
+
+        while (curr >= 0 && curr < arr.length) {
+            if (arr[curr] == 0) {
+                curr = dir ? curr + 1 : curr - 1;
+            } else {
+                arr[curr]--;
+                dir = !dir;
+                curr = dir ? curr + 1 : curr - 1;
+            }
+        }
+
+        for (int val : arr) {
+            if (val != 0) return false;
+        }
+
+        return true;
     }
 }
