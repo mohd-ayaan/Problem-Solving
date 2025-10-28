@@ -36,6 +36,7 @@
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/mohd-ayaan/Problem-Solving/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/mohd-ayaan/Problem-Solving/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mohd-ayaan/Problem-Solving/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mohd-ayaan/Problem-Solving/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -114,6 +115,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2169-simple-bank-system) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/mohd-ayaan/Problem-Solving/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Math
 |  |
 | ------- |
@@ -195,4 +197,8 @@
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2169-simple-bank-system) |
+## Prefix Sum
+|  |
+| ------- |
+| [3616-make-array-elements-equal-to-zero](https://github.com/mohd-ayaan/Problem-Solving/tree/master/3616-make-array-elements-equal-to-zero) |
 <!---LeetCode Topics End-->
