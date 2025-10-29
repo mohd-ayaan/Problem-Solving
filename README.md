@@ -126,6 +126,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2998-count-symmetric-integers](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2998-count-symmetric-integers) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/mohd-ayaan/Problem-Solving/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Enumeration
 |  |
 | ------- |
@@ -175,6 +176,7 @@
 | ------- |
 | [0090-subsets-ii](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0090-subsets-ii) |
 | [0800-letter-case-permutation](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0800-letter-case-permutation) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/mohd-ayaan/Problem-Solving/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Number Theory
 |  |
 | ------- |
