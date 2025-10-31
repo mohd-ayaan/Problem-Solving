@@ -36,6 +36,7 @@
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mohd-ayaan/Problem-Solving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/mohd-ayaan/Problem-Solving/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/mohd-ayaan/Problem-Solving/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mohd-ayaan/Problem-Solving/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -77,6 +78,7 @@
 | [2169-simple-bank-system](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2169-simple-bank-system) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mohd-ayaan/Problem-Solving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/mohd-ayaan/Problem-Solving/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/mohd-ayaan/Problem-Solving/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Dynamic Programming
@@ -126,6 +128,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2998-count-symmetric-integers](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2998-count-symmetric-integers) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mohd-ayaan/Problem-Solving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/mohd-ayaan/Problem-Solving/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Enumeration
 |  |
