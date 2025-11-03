@@ -160,6 +160,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0344-reverse-string) |
 | [0474-ones-and-zeroes](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0474-ones-and-zeroes) |
 | [0800-letter-case-permutation](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0800-letter-case-permutation) |
@@ -169,6 +170,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0455-assign-cookies) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
