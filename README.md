@@ -13,6 +13,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0204-count-primes) |
 | [0396-rotate-function](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0396-rotate-function) |
 | [0455-assign-cookies](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0463-island-perimeter) |
@@ -123,6 +124,7 @@
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0204-count-primes) |
 | [0396-rotate-function](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0396-rotate-function) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1500-count-largest-group](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1500-count-largest-group) |
@@ -135,6 +137,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0204-count-primes) |
 | [2998-count-symmetric-integers](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2998-count-symmetric-integers) |
 ## Binary Search
 |  |
@@ -187,6 +190,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0204-count-primes) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Greedy
 |  |
