@@ -167,6 +167,7 @@
 | [0344-reverse-string](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0344-reverse-string) |
 | [0474-ones-and-zeroes](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0474-ones-and-zeroes) |
 | [0800-letter-case-permutation](https://github.com/mohd-ayaan/Problem-Solving/tree/master/0800-letter-case-permutation) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2244-number-of-laser-beams-in-a-bank) |
