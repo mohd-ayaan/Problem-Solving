@@ -26,6 +26,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1299-k-concatenation-maximum-sum](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1299-k-concatenation-maximum-sum) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1603-running-sum-of-1d-array](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2048-build-array-from-permutation](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2048-build-array-from-permutation) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/mohd-ayaan/Problem-Solving/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -214,6 +215,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1603-running-sum-of-1d-array](https://github.com/mohd-ayaan/Problem-Solving/tree/master/1603-running-sum-of-1d-array) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/mohd-ayaan/Problem-Solving/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Linked List
 |  |
