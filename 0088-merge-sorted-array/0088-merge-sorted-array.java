@@ -1,24 +1,19 @@
 class Solution {
+    //Time-O(m+n),space=O(m+n)
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-        int i=0,j=0;
-
-        if(m!=0 && n!=0){
-            while(i<m){
-            if(nums1[i]>nums2[j]){
-                int t=nums1[i];
-                nums1[i]=nums2[j];
-                nums2[j]=t;
-            }
+        int i=0,j=0,k=0;
+        PriorityQueue<Integer> minheap=new PriorityQueue<>();
+        while(i<m){
+            minheap.offer(nums1[i]);
             i++;
         }
+        while(j<n){
+            minheap.offer(nums2[j]);
+            j++;
         }
-        
-        if(n!=0){
-            Arrays.sort(nums2);
-            while(i<m+n){
-            nums1[i]=nums2[i-m];
-            i++;
-        }
+        while(!minheap.isEmpty() && k<m+n){
+            nums1[k]=minheap.poll();
+            k++;
         }
 
         
