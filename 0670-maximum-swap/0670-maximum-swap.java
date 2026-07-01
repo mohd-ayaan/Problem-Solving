@@ -1,34 +1,28 @@
 class Solution {
+    //greedy TC: O(digits)
     public int maximumSwap(int num) {
-        int len=0;
-        int n=num;
-        while(n>0){
-            len++;
-            n/=10;
-        }
-        if(len<2)return num;
+        char[] digits=String.valueOf(num).toCharArray();
+        int[] last=new int[10];
 
-        n=num;
-        for(int i=0;i<len-1;i++){
-            num=swap(num,i,len);
-            if(n!=num)return num;
+        // record last occurrence of each digit
+        for(int i=0;i<digits.length;i++){
+            last[digits[i]-'0']=i;
+        }
+
+        for(int i=0;i<digits.length;i++){
+            int current=digits[i]-'0';
+            // check if a larger digit exists later
+            for(int d=9;d>current;d--){
+                if(last[d]>i) //bigger digit index must come after current changing index.
+                {
+                    //swap
+                    char t=digits[i];
+                    digits[i]=digits[last[d]];
+                    digits[last[d]]=t;
+                    return Integer.parseInt(new String(digits));
+                }
+            }
         }
         return num;
     }
-    public int swap(int num, int ind, int len){
-        int largest=ind;
-        StringBuilder sb=new StringBuilder(String.valueOf(num));
-        for(int i=len-1;i>=ind;i--){
-            if(sb.charAt(i)>sb.charAt(largest)){largest=i;}
-        }
-
-        if(ind==largest){return num;}
-
-        char t=sb.charAt(largest);
-        sb.setCharAt(largest,sb.charAt(ind));
-        sb.setCharAt(ind,t);
-
-        return Integer.parseInt(sb.toString());
-    }
-
 }
