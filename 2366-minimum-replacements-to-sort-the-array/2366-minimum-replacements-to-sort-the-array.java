@@ -1,4 +1,5 @@
 class Solution {
+    //TC: O(N) time, O(1) space
     public long minimumReplacement(int[] nums) {
         int n = nums.length;
         long ans = 0;
@@ -11,10 +12,16 @@ class Solution {
                 // Already fits the sorted order
                 prev = nums[i];
             } else {
-                // Need to split nums[i] into k parts
-                long k = (nums[i] + prev - 1) / prev; // ceil(nums[i] / prev)
-                ans += k - 1; // replacements count
-                prev = nums[i] / k; // new max part size
+                // Need to split nums[i] into parts
+                //Ex.[...,13,4], 13-> 4,4,4,1. Here ceil(13/4) gives 4 parts. the parts into we have to divide number as per min previosly found.
+                long parts = (nums[i] + prev - 1) / prev;
+
+                //operations to break a num in k parts is (parts-1)
+                ans += parts - 1; 
+
+                //13->4,4,4,1 is wrong, 13->4,3,3,3 is rignt.
+                //to find max of min values, do num/parts. 
+                prev = nums[i] / parts;
             }
         }
         
