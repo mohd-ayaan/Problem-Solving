@@ -2,11 +2,15 @@ class Solution {
     // public int Recursion(int[] nums, int n, int curr, int prev){
     //     if(curr==n)return 0;
 
-    //     // cannot take current
-    //     if(prev!=-1 && nums[curr]<=nums[prev])return Recursion(nums,n,curr+1,prev);
+    //     // dont take
+    //     int not_take= Recursion(nums,n,curr+1,prev);
 
-    //     // take or not take
-    //     return Math.max(Recursion(nums,n,curr+1,prev),1+Recursion(nums,n,curr+1,curr));
+    //     // take if valid(valid can be in 2 ways, either first chosed element or greater than prev)
+    //     int take=0;
+    //     if(prev==-1 || nums[curr]>nums[prev]){
+    //         take=1+Recursion(nums,n,curr+1,curr);
+    //     }
+    //     return Math.max(not_take,take);
     // }
     // public int lengthOfLIS(int[] nums) {
     //     int n=nums.length;
@@ -17,11 +21,13 @@ class Solution {
         if(curr==n)return 0;
         if(dp[curr][prev+1]!=-1)return dp[curr][prev+1];
 
-        // cannot take current
-        if(prev!=-1 && nums[curr]<=nums[prev])return dp[curr][prev+1]=Memoization(nums,n,curr+1,prev,dp);
+        int not_take= Memoization(nums,n,curr+1,prev,dp);
 
-        // take or not take
-        return dp[curr][prev+1]=Math.max(Memoization(nums,n,curr+1,prev,dp),1+Memoization(nums,n,curr+1,curr,dp));
+        int take=0;
+        if(prev==-1 || nums[curr]>nums[prev]){
+            take=1+Memoization(nums,n,curr+1,curr,dp);
+        }
+        return dp[curr][prev+1]=Math.max(not_take,take);
     }
     public int lengthOfLIS(int[] nums) {
         int n=nums.length;
@@ -29,8 +35,8 @@ class Solution {
         for(int i=0;i<=n;i++){
             Arrays.fill(dp[i],-1);
         }
-        Memoization(nums,n,0,-1,dp);
         // System.out.println(Arrays.deepToString(dp));
-        return dp[0][0];
+        return Memoization(nums,n,0,-1,dp);
+        
     }
 }
