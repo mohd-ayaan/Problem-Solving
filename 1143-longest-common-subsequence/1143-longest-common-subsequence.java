@@ -34,28 +34,57 @@ class Solution {
     // }
 
     //Tabulation: time- O(l1*l2), space-O(l1*l2)
+    // public int longestCommonSubsequence(String text1, String text2) {
+    //     int l1=text1.length();
+    //     int l2=text2.length();
+    //     int[][] dp=new int[l1][l2];
+
+
+    //     dp[0][0]=text1.charAt(0)==text2.charAt(0)?1:0;
+    //     for(int j=1;j<l2;j++){
+    //         if(text1.charAt(0)==text2.charAt(j)) dp[0][j]=Math.max(1,dp[0][j-1]);
+    //         else{dp[0][j]=Math.max(0,dp[0][j-1]);}
+    //     }
+
+    //     for(int i=1;i<l1;i++){
+    //         if(text1.charAt(i)==text2.charAt(0)) dp[i][0]=Math.max(1,dp[i-1][0]);
+    //         else{dp[i][0]=Math.max(0,dp[i-1][0]);}
+
+    //         for(int j=1;j<l2;j++){
+    //             if(text1.charAt(i)==text2.charAt(j)) dp[i][j]=1+dp[i-1][j-1];
+    //             else{dp[i][j]=Math.max(dp[i-1][j],dp[i][j-1]);}
+    //         }
+    //     }
+    //     return dp[l1-1][l2-1];
+    // }
+
+    //Space Optimezed: time- O(l1*l2), space-O(2*l2)
     public int longestCommonSubsequence(String text1, String text2) {
         int l1=text1.length();
         int l2=text2.length();
-        int[][] dp=new int[l1][l2];
+        int[] prev=new int[l2];
 
-
-        dp[0][0]=text1.charAt(0)==text2.charAt(0)?1:0;
+        //first row 
+        prev[0]=text1.charAt(0)==text2.charAt(0)?1:0;
         for(int j=1;j<l2;j++){
-            if(text1.charAt(0)==text2.charAt(j)) dp[0][j]=Math.max(1,dp[0][j-1]);
-            else{dp[0][j]=Math.max(0,dp[0][j-1]);}
+            if(text1.charAt(0)==text2.charAt(j)) prev[j]=1;
+            else{prev[j]=Math.max(0,prev[j-1]);}
         }
 
         for(int i=1;i<l1;i++){
-            if(text1.charAt(i)==text2.charAt(0)) dp[i][0]=Math.max(1,dp[i-1][0]);
-            else{dp[i][0]=Math.max(0,dp[i-1][0]);}
+            int[] curr=new int[l2];
+            //first column
+            if(text1.charAt(i)==text2.charAt(0)) curr[0]=1;
+            else{curr[0]=Math.max(0,prev[0]);}
 
+            //rest of cells
             for(int j=1;j<l2;j++){
-                if(text1.charAt(i)==text2.charAt(j)) dp[i][j]=1+dp[i-1][j-1];
-                else{dp[i][j]=Math.max(dp[i-1][j],dp[i][j-1]);}
+                if(text1.charAt(i)==text2.charAt(j)) curr[j]=1+prev[j-1];
+                else{curr[j]=Math.max(prev[j],curr[j-1]);}
             }
+            prev=curr;
         }
-        return dp[l1-1][l2-1];
+        return prev[l2-1];
     }
 
 }
